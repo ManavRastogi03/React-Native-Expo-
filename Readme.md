@@ -25,12 +25,3 @@ AstroApp is a React Native application that provides astrology-related services 
 
 ---
 
----
-
-## 🚀 Installation & Setup
-
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/yourusername/astroapp.git
-cd astroapp
-
